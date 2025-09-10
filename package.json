@@ -41,7 +41,7 @@
     "@builder.io/qwik-city": "^1.8.0",
     "@divriots/jampack": "^0.25.0",
     "@tailwindcss/typography": "^0.5.14",
-    "@types/eslint": "^8.56.10",
+    "@types/eslint": "^9.6.1",
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^22.5.0",
     "@typescript-eslint/eslint-plugin": "^7.13.0",
